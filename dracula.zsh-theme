@@ -96,7 +96,7 @@ PROMPT+='%F{magenta}%B$(dracula_context)'
 # }}}
 
 # Directory segment {{{
-PROMPT+='%F{blue}%B%c '
+PROMPT+='%F{blue}%B%~ '
 # }}}
 
 # Async git segment {{{
